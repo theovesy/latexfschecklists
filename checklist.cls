@@ -24,6 +24,8 @@
 \fancyhf{}
 \lhead{Standard Procedures}
 \rhead{\thepage}
+% Footer
+\cfoot{\textcolor{red}{\textbf{FOR SIMULATION USE ONLY}}}
 
 % Formating commands
 
